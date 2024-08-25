@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\source\repos\PrWebN-Capas\PrWebN-Capas.DAL\bin\Debug\net6.0\PrWebN-Capas.DAL.deps.json
+C:\Users\MINEDUCYT\source\repos\PrWebN-Capas\PrWebN-Capas.DAL\bin\Debug\net6.0\PrWebN-Capas.DAL.dll
+C:\Users\MINEDUCYT\source\repos\PrWebN-Capas\PrWebN-Capas.DAL\bin\Debug\net6.0\PrWebN-Capas.DAL.pdb
+C:\Users\MINEDUCYT\source\repos\PrWebN-Capas\PrWebN-Capas.DAL\bin\Debug\net6.0\PrWebN-Capas.EN.dll
+C:\Users\MINEDUCYT\source\repos\PrWebN-Capas\PrWebN-Capas.DAL\bin\Debug\net6.0\PrWebN-Capas.EN.pdb
+C:\Users\MINEDUCYT\source\repos\PrWebN-Capas\PrWebN-Capas.DAL\obj\Debug\net6.0\PrWebN-Capas.DAL.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\PrWebN-Capas\PrWebN-Capas.DAL\obj\Debug\net6.0\PrWebN-Capas.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\PrWebN-Capas\PrWebN-Capas.DAL\obj\Debug\net6.0\PrWebN-Capas.DAL.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\PrWebN-Capas\PrWebN-Capas.DAL\obj\Debug\net6.0\PrWebN-Capas.DAL.AssemblyInfo.cs
+C:\Users\MINEDUCYT\source\repos\PrWebN-Capas\PrWebN-Capas.DAL\obj\Debug\net6.0\PrWebN-Capas.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\PrWebN-Capas\PrWebN-Capas.DAL\obj\Debug\net6.0\PrWebN-Capas.DAL.csproj.CopyComplete
+C:\Users\MINEDUCYT\source\repos\PrWebN-Capas\PrWebN-Capas.DAL\obj\Debug\net6.0\PrWebN-Capas.DAL.dll
+C:\Users\MINEDUCYT\source\repos\PrWebN-Capas\PrWebN-Capas.DAL\obj\Debug\net6.0\refint\PrWebN-Capas.DAL.dll
+C:\Users\MINEDUCYT\source\repos\PrWebN-Capas\PrWebN-Capas.DAL\obj\Debug\net6.0\PrWebN-Capas.DAL.pdb
+C:\Users\MINEDUCYT\source\repos\PrWebN-Capas\PrWebN-Capas.DAL\obj\Debug\net6.0\ref\PrWebN-Capas.DAL.dll
